@@ -1,0 +1,7 @@
+https://medium.com/codingthesmartway-com-blog/angular-2-firebase-introduction-b4f32e844db2
+https://www.npmjs.com/package/angularfire2
+www.angular.io
+firebase.google.com
+getbootstrap.com
+ionicframework.com
+cordova.apache.org
