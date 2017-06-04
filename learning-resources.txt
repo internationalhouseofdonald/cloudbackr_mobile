@@ -5,3 +5,4 @@ firebase.google.com
 getbootstrap.com
 ionicframework.com
 cordova.apache.org
+https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
