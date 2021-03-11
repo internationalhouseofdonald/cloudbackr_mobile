@@ -24,7 +24,7 @@
     "angular": "^1.6.4",
     "angularfire2": "^4.0.0-rc.1",
     "bootstrap": "^4.0.0-alpha.6",
-    "cordova": "^7.0.1",
+    "cordova": "^7.1.0",
     "core-js": "2.4.1",
     "firebase": "^4.1.1",
     "ionic": "^3.3.0",
